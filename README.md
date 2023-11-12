@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+#### My name is Stephen Aigner, and I am a data analyst. Check out my profile for various projects!
+
 <!--
 **stephenaigner/stephenaigner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
