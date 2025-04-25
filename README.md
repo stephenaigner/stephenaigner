@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### My name is Stephen Aigner. I enjoy learning new ways and tools to gain valuable insights from data. Check out my pinned repositories for interesting projects!
+### My name is Stephen Aigner. I enjoy learning new methods and tools to gain valuable insights from data. Check out my pinned repositories for interesting projects!
 
 <!--
 **stephenaigner/stephenaigner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
